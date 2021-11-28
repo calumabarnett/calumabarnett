@@ -1,6 +1,6 @@
 ## MoJ Personal User Manual
 
-### The times and hours I like to work
+### The times and hours I like to work ⏰
 
 - I usually start between 10:00 and 10:30AM.
 - I don't always finish at the same time but it's usually between 6:00 and 6:30PM. If I’m being productive, I’ll often keep going until quite late. Other times, I’ll wrap up earlier, but usually no earlier than 5:00.
@@ -9,7 +9,7 @@
 - I sometimes pop out for a coffee during the day.
 - I don't like to have meetings before 10:00AM or after 5:00PM unless they're unavoidable.
 
-### The best ways to communicate with me
+### The best ways to communicate with me 📠
 
 - I think face-to-face conversations (in person) are the best way of communicating.
 - The best way to contact me is on the Digital & Technology Slack workspace. I also use the Data & Analysis Slack workspace but not as much.
@@ -28,7 +28,7 @@
 - I enjoy getting into technical details.
 - I like to think I'm a quick learner and can pick up new concepts easily.
 
-### The conditions I like to work in
+### The conditions I like to work in 🏢
 
 - I like to work from the office (usually 102 Petty France) as I find it makes me much more productive. I tend to go to the office most days.
 - I try to keep my work location up to date in my calendar.
@@ -40,14 +40,14 @@
 - I like to work on documents collaboratively and in real time on Google Drive or in Confluence. I don't like when documents are sent back and forth by email.
 - I enjoy working together with others in person, especially when there are post-its and whiteboards involved.
 
-### The ways I like to receive feedback
+### The ways I like to receive feedback 🎯
 
-### Things I need
+### Things I need 🧰
 
 - I often need time to think things through and digest information before responding to something or making a decision, so I don't like being put on the spot in meetings.
 
-### Things I struggle with
+### Things I struggle with 🏔️
 
-### Things I love
+### Things I love 🙌
 
-### Other things to know about me
+### Other things to know about me ✨
