@@ -48,6 +48,8 @@
 
 ### Things I struggle with 🏔️
 
+- Keeping meetings on time.
+
 ### Things I love 🙌
 
 ### Other things to know about me ✨
